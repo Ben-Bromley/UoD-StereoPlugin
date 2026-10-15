@@ -1,0 +1,45 @@
+dependencies: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/SDKSettings.json \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/macfileselector.mm \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../../cstring.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../../vstguifwd.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../../vstguibase.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../../vstguidebug.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../../optional.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../../platform/iplatformstring.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../../platform/../vstguibase.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/cocoahelpers.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../crect.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../vstguibase.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cpoint.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../ccolor.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../vstguifwd.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/macfileselector.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../iplatformfileselector.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/nsviewframe.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../platform_macos.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../iplatformframe.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../dragging.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cbitmap.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cresourcedescription.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../pixelbuffer.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../platform/iplatformbitmap.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../platform/../vstguifwd.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../events.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cbuttonstate.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../vstkeycode.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../idatapackage.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../optional.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cstring.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../iplatformframecallback.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cinvalidrectlist.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../coregraphicsdevicecontext.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/../../iplatformgraphicsdevice.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cocoa/nsviewdraggingsession.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/macstring.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../iplatformstring.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/cfontmac.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../iplatformfont.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../platformfactory.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../platformfwd.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/platform/mac/../../ccolor.h

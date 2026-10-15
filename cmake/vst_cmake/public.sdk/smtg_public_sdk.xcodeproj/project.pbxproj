@@ -1,0 +1,1172 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		1D4BB1918E86388FF6E1CCAA /* ZERO_CHECK */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = F410D76801E44100AA0E8405 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+			buildPhases = (
+				A42B4BAC5557CA6327B4C49C /* Generate CMakeFiles/ZERO_CHECK */,
+			);
+			dependencies = (
+			);
+			name = ZERO_CHECK;
+			productName = ZERO_CHECK;
+		};
+		D53E4E735BA468AA40C3FA7C /* ALL_BUILD */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 62C55E16E5A04AE5BDB85F80 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+			buildPhases = (
+				0D2BCE777269137BCF8B8209 /* Generate CMakeFiles/ALL_BUILD */,
+			);
+			dependencies = (
+				E8A97414D39542E99559A7C7 /* PBXTargetDependency */,
+				B9224086E65B4AB3BD999C74 /* PBXTargetDependency */,
+				0157B22BA2D8497A9A498FAB /* PBXTargetDependency */,
+				31349578673F4BB2A7BE10D5 /* PBXTargetDependency */,
+			);
+			name = ALL_BUILD;
+			productName = ALL_BUILD;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		00F94D26C007460E9BC22299 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstparameters.cpp */ = {isa = PBXBuildFile; fileRef = DB017C6D9FD44A6281B2754A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstparameters.cpp */; };
+		0280D0253EA94CAFAD058D5A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/optional.h */ = {isa = PBXBuildFile; fileRef = DC1A22B401524D1E91CD78AB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/optional.h */; };
+		067EB4B5246C4535A5FCB2B3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commonstringconvert.h */ = {isa = PBXBuildFile; fileRef = 62043A5D36C643738191C175 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commonstringconvert.h */; };
+		08A3F2A646B144719C0DD773 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.cpp */ = {isa = PBXBuildFile; fileRef = FC383E86D4B84A0E94A7F2DE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.cpp */; };
+		0BBED4C2DB054AE78DF4050C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbus.h */ = {isa = PBXBuildFile; fileRef = 3EDA2D1E9A6B4B8F8DE39186 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbus.h */; };
+		13843B483D7B4B95AB6C6A77 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.h */ = {isa = PBXBuildFile; fileRef = 540553FBF71343209807E666 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.h */; };
+		1546D134993545B8A5053CE0 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstrepresentation.cpp */ = {isa = PBXBuildFile; fileRef = 388BED0FFE8944EBA862E888 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstrepresentation.cpp */; };
+		18B30DD5F098406AB64A1B5A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = EDD8182400C94E4EAE304257 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */; };
+		198AA53F60044CF78527FC51 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/openurl.cpp */ = {isa = PBXBuildFile; fileRef = 28D8FCDAFF2C4DB6BC012E06 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/openurl.cpp */; };
+		1ABFAE2F59F349F6ADF08537 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/vst2persistence.h */ = {isa = PBXBuildFile; fileRef = 01ACBB6BED7D4E43A2B08697 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/vst2persistence.h */; };
+		1C4979998C6D4AA1BC939E41 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory_constexpr.h */ = {isa = PBXBuildFile; fileRef = FFB1BCBA00FD491AA9B973B1 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory_constexpr.h */; };
+		2182431AC0514971A6425C6A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteventshelper.h */ = {isa = PBXBuildFile; fileRef = A9E8EB3D7C23487DB0FA2DDD /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteventshelper.h */; };
+		258A53340B1A4785AF3BA4A9 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commoniids.cpp */ = {isa = PBXBuildFile; fileRef = 99ACDD3D352643FBA5709BC8 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commoniids.cpp */; };
+		2C2AFAE10C7C4ED29D9B13F6 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/testing.h */ = {isa = PBXBuildFile; fileRef = 7DA768EFA81845EB89985EC7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/testing.h */; };
+		308324AA19374A38AA5A7396 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstpresetfile.h */ = {isa = PBXBuildFile; fileRef = 10CE31EBBD024FAE9AE24BD0 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstpresetfile.h */; };
+		32D15E22595848359AA3661C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/hostclasses.h */ = {isa = PBXBuildFile; fileRef = 8A40159922884A9D947A0B0B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/hostclasses.h */; };
+		335B3EA1FC5F4D46941B4DCA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/processcontextrequirements.h */ = {isa = PBXBuildFile; fileRef = D6EC970AFCEA43A5B359131C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/processcontextrequirements.h */; };
+		339597C251534BF0AC6E936A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_mac.mm */ = {isa = PBXBuildFile; fileRef = B22F2517D6454C9E8CEF8F62 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_mac.mm */; };
+		33ADA621EF5C4DAE9E6F00BB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/audiobuffers.h */ = {isa = PBXBuildFile; fileRef = 303D2A7FEDC844D59F3CC9AC /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/audiobuffers.h */; };
+		33E424AF8FE14222A7D27CE1 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstpresetfile.cpp */ = {isa = PBXBuildFile; fileRef = 59FACC9DC2A942E59D8D8F4E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstpresetfile.cpp */; };
+		38AF4544FC9E4F6BAA66E942 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 11FA2900C98E4AB9818B560F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */; };
+		39E3211CB95F4B4C9FCDED09 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/hostclasses.cpp */ = {isa = PBXBuildFile; fileRef = C70CE55595064EA6B26A4024 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/hostclasses.cpp */; };
+		3CD8BED4E35942DAB362145A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/uid.h */ = {isa = PBXBuildFile; fileRef = 6B332BC937F64C76B9B7F366 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/uid.h */; };
+		402D94D6A05E4C97BEC83664 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory.cpp */ = {isa = PBXBuildFile; fileRef = 5E819F4562CC4F8A97BF7DE7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory.cpp */; };
+		466BF3E894554A4CB31621EF /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstaudioeffect.cpp */ = {isa = PBXBuildFile; fileRef = DA5C47CCDC4B42E3A7C969FE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstaudioeffect.cpp */; };
+		5215A86DF6B740EF8586369E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */ = {isa = PBXBuildFile; fileRef = F4CB9F6E2E3244EFAC1A1A88 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */; };
+		5B41DD3C28C049339F8FB9FA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commonstringconvert.cpp */ = {isa = PBXBuildFile; fileRef = 09F9610562AD4AFF919F3404 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commonstringconvert.cpp */; };
+		5F80A03671AC4DDDA1AF3070 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/dataexchange.cpp */ = {isa = PBXBuildFile; fileRef = 54584774E9E3469E945CE4A4 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/dataexchange.cpp */; };
+		62DEB026F0DC4FD282286A14 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.h */ = {isa = PBXBuildFile; fileRef = 53832F42C30242DB8E1CF788 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.h */; };
+		633624195B0143CEA6C23A21 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/alignedalloc.h */ = {isa = PBXBuildFile; fileRef = 68F488FB16E74B04ABDDD219 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/alignedalloc.h */; };
+		64BD6567B3F04F2692694CAB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = A16B20557D2E42F1A1BD4A28 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */; };
+		656802481D7041F9A0E64A3C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */ = {isa = PBXBuildFile; fileRef = 40FFD0A9273146348903280E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */; };
+		6571F4A6E60C4033BAC02375 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */ = {isa = PBXBuildFile; fileRef = 51DFDF7C1A3B4D1CB45D60C7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */; };
+		6893F2A6E6934EC6ADE6153D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteditcontroller.cpp */ = {isa = PBXBuildFile; fileRef = 82211E63FA664D699109B7B0 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteditcontroller.cpp */; };
+		68DBFDF5EA1C4AAD84566696 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponentbase.h */ = {isa = PBXBuildFile; fileRef = 61D41EAC517C48AEBF34310F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponentbase.h */; };
+		728FB9C966564EA0B0C77DCD /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_linux.cpp */ = {isa = PBXBuildFile; fileRef = E5ADF768C43B4F42B9B1B453 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_linux.cpp */; };
+		7614FB7B83484EAEB544C279 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/openurl.h */ = {isa = PBXBuildFile; fileRef = B8D1DA05EAC1437E98DFE011 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/openurl.h */; };
+		77139D88D1E545D2B332277F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */ = {isa = PBXBuildFile; fileRef = 67C90D144A204BACB550BBDA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */; };
+		78A7FC8F2E88459D941B8311 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/module.h */ = {isa = PBXBuildFile; fileRef = A069D371A1BF481D9ECDE648 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/module.h */; };
+		7D9BEEA9E68D49209E202D14 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/memoryibstream.h */ = {isa = PBXBuildFile; fileRef = FD6128C0E0A74548B405A343 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/memoryibstream.h */; };
+		7F50A52DC10F4ECE92533E36 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/pluginview.h */ = {isa = PBXBuildFile; fileRef = 5BCA88C3DCD443DBB9E311B7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/pluginview.h */; };
+		8733A6A436554EAAA7876FB3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/readfile.cpp */ = {isa = PBXBuildFile; fileRef = 00E35C1CD60A4D3E8ED43789 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/readfile.cpp */; };
+		88A917EBDB9B4560A3400E1E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstparameters.h */ = {isa = PBXBuildFile; fileRef = 60A4E81EDC96468E8A391CBD /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstparameters.h */; };
+		8D15FE19C73B43BC9F687373 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbypassprocessor.h */ = {isa = PBXBuildFile; fileRef = A4EFEEDC739F4142A0B5373D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbypassprocessor.h */; };
+		8E6CE1CA7C1242E284801C57 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_win32.cpp */ = {isa = PBXBuildFile; fileRef = DA91ADD09D9842AEB58105B2 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_win32.cpp */; };
+		8EC8A8AF0ABF401C9A329DEB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsthelpers.h */ = {isa = PBXBuildFile; fileRef = 5F017176938C48248937632B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsthelpers.h */; };
+		9AEBEEAB57074EF1B6644454 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker.h */ = {isa = PBXBuildFile; fileRef = 9F95A6A8CB174EEF82C4A7DE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker.h */; };
+		9B4AF8593EDF42D3AF410963 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.cpp */ = {isa = PBXBuildFile; fileRef = 9BB19D20D7CE4FE6856BEAE3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.cpp */; };
+		9C6305F87DD54C27AF7EB822 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.h */ = {isa = PBXBuildFile; fileRef = AA985D0894934B95920C03B8 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.h */; };
+		9D47ACFCBA4A416B859A8739 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/dataexchange.h */ = {isa = PBXBuildFile; fileRef = 60872259003947B6BE92C20D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/dataexchange.h */; };
+		9D651578BCAE44E6AD8C10DA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponent.cpp */ = {isa = PBXBuildFile; fileRef = 450BA0D7FA13460785E5ABB5 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponent.cpp */; };
+		9E840F94946743CB945506FC /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstrepresentation.h */ = {isa = PBXBuildFile; fileRef = DE89C254CA5B4D4BB62C3093 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstrepresentation.h */; };
+		A2BD6AD9E57A40DFB00BEB0F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/processdata.h */ = {isa = PBXBuildFile; fileRef = FC05D3003F0A429680F6B20D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/processdata.h */; };
+		A4504667C418417B801008FF /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/processdataslicer.h */ = {isa = PBXBuildFile; fileRef = D7B485C84CDC434DA2B6FF6A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/processdataslicer.h */; };
+		A47F60BAE3F042E5B58F2203 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbus.cpp */ = {isa = PBXBuildFile; fileRef = 1C58C69FFC954BE08EA953D7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbus.cpp */; };
+		A7B607FB7C78442EA72DC809 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/rttransfer.h */ = {isa = PBXBuildFile; fileRef = D12FC8A0E8A64540B9207CF5 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/rttransfer.h */; };
+		A85549496625407FA529E4E7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/eventlist.cpp */ = {isa = PBXBuildFile; fileRef = 0EDABF2E96714A2DB53A0D38 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/eventlist.cpp */; };
+		AAD3B39B9B7249048C21FD4D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_win32.cpp */ = {isa = PBXBuildFile; fileRef = E9C6F90194E548078EC0BD3C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_win32.cpp */; };
+		AC0BE2F6FCB04022829D0892 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.h */ = {isa = PBXBuildFile; fileRef = A5F50D912B164726A5EFDFBB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.h */; };
+		AC1B03973D444C9398F7F92E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/pluginview.cpp */ = {isa = PBXBuildFile; fileRef = B680FEF61EFE49CBA081FC6B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/pluginview.cpp */; };
+		ACFACA7B78104B96BC6D767C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory.h */ = {isa = PBXBuildFile; fileRef = D5ACCEBE82FF402BA40CE5BA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory.h */; };
+		ADD61BA5DB9F44CB93F93C2B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard.h */ = {isa = PBXBuildFile; fileRef = 9DD524F3628041E6BA206D83 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard.h */; };
+		B48AE250DE2A42E89BCBA192 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.h */ = {isa = PBXBuildFile; fileRef = B04FA2FB98944641B83E8115 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.h */; };
+		B85EC653146E4B8C9F5475C8 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/vst2persistence.cpp */ = {isa = PBXBuildFile; fileRef = EC05660F86EC4B03B3501DEF /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/vst2persistence.cpp */; };
+		B8656A17B1A64B0AB2436CB5 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/moduleinit.cpp */ = {isa = PBXBuildFile; fileRef = 3C8DDB0590CB4B5783F9B2D4 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/moduleinit.cpp */; };
+		B8772BCF2C7C48A6AE3CAA51 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/systemtime.h */ = {isa = PBXBuildFile; fileRef = 133A26DE9C6742D7929B7D97 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/systemtime.h */; };
+		B9CCBE8B7E824375B20FB1AD /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.h */ = {isa = PBXBuildFile; fileRef = 5E0E349B3F6342469B8A33FA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.h */; };
+		BB8543C89B9D422998278289 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/systemtime.cpp */ = {isa = PBXBuildFile; fileRef = 8CCD92EFDD8D40F6AEDEFEE1 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/systemtime.cpp */; };
+		BBB7743EEE40496FB11E1A2B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/module.cpp */ = {isa = PBXBuildFile; fileRef = 17300B94031144D7AD3C35ED /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/module.cpp */; };
+		BF3F6D25F8464543AC3FA787 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponent.h */ = {isa = PBXBuildFile; fileRef = 8352EECCE51B403CBAF58B0E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponent.h */; };
+		BF952BABBD474B79B17B56FA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/sampleaccurate.h */ = {isa = PBXBuildFile; fileRef = FD92BBBD1BBE446A8E6DF498 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/sampleaccurate.h */; };
+		C18F668DACA64709BEEA98FF /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/ringbuffer.h */ = {isa = PBXBuildFile; fileRef = C98D5621AEC641B6BAE58CD4 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/ringbuffer.h */; };
+		C4D2F2E635614CDCA313F619 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_linux.cpp */ = {isa = PBXBuildFile; fileRef = A28EAAD370004CE8B0E13BFA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_linux.cpp */; };
+		C7BBEE99A11E45C1B15C33EE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/processdata.cpp */ = {isa = PBXBuildFile; fileRef = 33097392A43145A0B021D718 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/processdata.cpp */; };
+		CC91CEF2AD404593AEAAC127 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponentbase.cpp */ = {isa = PBXBuildFile; fileRef = 9346C0E75A304D6BBA0E5DA7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponentbase.cpp */; };
+		D6B5F23C35F149D298B9C957 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/moduleinit.h */ = {isa = PBXBuildFile; fileRef = F4EFFC95339F47D885949A77 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/moduleinit.h */; };
+		D9AD3B3187F549D39CD2292A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.cpp */ = {isa = PBXBuildFile; fileRef = 5517D34A7486439CB7983E4F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.cpp */; };
+		DA1DD45B656A47858C30AEB7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/testing.cpp */ = {isa = PBXBuildFile; fileRef = D8F04F4BCFCA46C8A15F833B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/testing.cpp */; };
+		DC2BDD4731214289916F9E10 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/versionparser.h */ = {isa = PBXBuildFile; fileRef = 6EA883D957C6490FA66B5409 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/versionparser.h */; };
+		E279A23049F64C8AB5D2866E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteditcontroller.h */ = {isa = PBXBuildFile; fileRef = 9584FC0D98314C21841865A6 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteditcontroller.h */; };
+		E493DF53FE2647FB83D7F840 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_mac.mm */ = {isa = PBXBuildFile; fileRef = 028D01003EB24FFCBE94440B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_mac.mm */; };
+		E527E76E9E6E4806B865953B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.cpp */ = {isa = PBXBuildFile; fileRef = A95B96C7199141CD89B3CFE3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.cpp */; };
+		E78D8B3A662E42529FE0E7D3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/readfile.h */ = {isa = PBXBuildFile; fileRef = 00B8359AC8A04F9B8C61F57B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/readfile.h */; };
+		F92513066A194847AB3EB465 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/eventlist.h */ = {isa = PBXBuildFile; fileRef = 0C4CB3390DBF4AE28DEC55FB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/eventlist.h */; };
+		FD0BAA5B3A9E4D108C8BEE11 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstaudioeffect.h */ = {isa = PBXBuildFile; fileRef = 0AFE89345DC141FFAA26AD40 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstaudioeffect.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+		316E6ED92EFF48D1A25DB1E5 /* Debug */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+		65EF6C9BC27C41C6A4C5926F /* Release */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Release;
+		};
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+		07771E0720C04687BD0E0E69 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 035225579D6841CEA6301EB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1D4BB1918E86388FF6E1CCAA;
+			remoteInfo = ZERO_CHECK;
+		};
+		428E72E354AC44B088461F78 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 035225579D6841CEA6301EB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1D4BB1918E86388FF6E1CCAA;
+			remoteInfo = ZERO_CHECK;
+		};
+		4456469BD3134266A3B8FEBC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 035225579D6841CEA6301EB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5BEDAACE5E48497147C6D408;
+			remoteInfo = sdk;
+		};
+		6DEF6F39CE5F4126B68717C2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 035225579D6841CEA6301EB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1D4BB1918E86388FF6E1CCAA;
+			remoteInfo = ZERO_CHECK;
+		};
+		74F0B0E25E3F4874AC627675 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 035225579D6841CEA6301EB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 872C3D8B4D6B036F628D514B;
+			remoteInfo = sdk_hosting;
+		};
+		A7FDFAB76332441BB0D8492C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 035225579D6841CEA6301EB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1D4BB1918E86388FF6E1CCAA;
+			remoteInfo = ZERO_CHECK;
+		};
+		CCB2AF3EB6C944B3B779435F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 035225579D6841CEA6301EB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 52F90D7E086B55FF11402311;
+			remoteInfo = sdk_common;
+		};
+		EDFDA3AAB6164795A6718B76 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 035225579D6841CEA6301EB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 52F90D7E086B55FF11402311;
+			remoteInfo = sdk_common;
+		};
+		FA6FCFC9D3D2468AAA4F00C0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 035225579D6841CEA6301EB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 52F90D7E086B55FF11402311;
+			remoteInfo = sdk_common;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		00B8359AC8A04F9B8C61F57B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/readfile.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = readfile.h; path = source/common/readfile.h; sourceTree = SOURCE_ROOT; };
+		00E35C1CD60A4D3E8ED43789 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/readfile.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = readfile.cpp; path = source/common/readfile.cpp; sourceTree = SOURCE_ROOT; };
+		01ACBB6BED7D4E43A2B08697 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/vst2persistence.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vst2persistence.h; path = source/vst/utility/vst2persistence.h; sourceTree = SOURCE_ROOT; };
+		028D01003EB24FFCBE94440B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_mac.mm */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; fileEncoding = 4; name = threadchecker_mac.mm; path = source/common/threadchecker_mac.mm; sourceTree = SOURCE_ROOT; };
+		09F9610562AD4AFF919F3404 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commonstringconvert.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = commonstringconvert.cpp; path = source/common/commonstringconvert.cpp; sourceTree = SOURCE_ROOT; };
+		0AFE89345DC141FFAA26AD40 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstaudioeffect.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vstaudioeffect.h; path = source/vst/vstaudioeffect.h; sourceTree = SOURCE_ROOT; };
+		0C4CB3390DBF4AE28DEC55FB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/eventlist.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = eventlist.h; path = source/vst/hosting/eventlist.h; sourceTree = SOURCE_ROOT; };
+		0EDABF2E96714A2DB53A0D38 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/eventlist.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = eventlist.cpp; path = source/vst/hosting/eventlist.cpp; sourceTree = SOURCE_ROOT; };
+		10CE31EBBD024FAE9AE24BD0 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstpresetfile.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vstpresetfile.h; path = source/vst/vstpresetfile.h; sourceTree = SOURCE_ROOT; };
+		11FA2900C98E4AB9818B560F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		133A26DE9C6742D7929B7D97 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/systemtime.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = systemtime.h; path = source/vst/utility/systemtime.h; sourceTree = SOURCE_ROOT; };
+		17300B94031144D7AD3C35ED /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/module.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = module.cpp; path = source/vst/hosting/module.cpp; sourceTree = SOURCE_ROOT; };
+		1C58C69FFC954BE08EA953D7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbus.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstbus.cpp; path = source/vst/vstbus.cpp; sourceTree = SOURCE_ROOT; };
+		28D8FCDAFF2C4DB6BC012E06 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/openurl.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = openurl.cpp; path = source/common/openurl.cpp; sourceTree = SOURCE_ROOT; };
+		303D2A7FEDC844D59F3CC9AC /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/audiobuffers.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = audiobuffers.h; path = source/vst/utility/audiobuffers.h; sourceTree = SOURCE_ROOT; };
+		33097392A43145A0B021D718 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/processdata.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = processdata.cpp; path = source/vst/hosting/processdata.cpp; sourceTree = SOURCE_ROOT; };
+		388BED0FFE8944EBA862E888 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstrepresentation.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstrepresentation.cpp; path = source/vst/vstrepresentation.cpp; sourceTree = SOURCE_ROOT; };
+		3C8DDB0590CB4B5783F9B2D4 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/moduleinit.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = moduleinit.cpp; path = source/main/moduleinit.cpp; sourceTree = SOURCE_ROOT; };
+		3EDA2D1E9A6B4B8F8DE39186 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbus.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vstbus.h; path = source/vst/vstbus.h; sourceTree = SOURCE_ROOT; };
+		40FFD0A9273146348903280E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstinitiids.cpp; path = source/vst/vstinitiids.cpp; sourceTree = SOURCE_ROOT; };
+		450BA0D7FA13460785E5ABB5 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponent.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstcomponent.cpp; path = source/vst/vstcomponent.cpp; sourceTree = SOURCE_ROOT; };
+		51DFDF7C1A3B4D1CB45D60C7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstinitiids.cpp; path = source/vst/vstinitiids.cpp; sourceTree = SOURCE_ROOT; };
+		53832F42C30242DB8E1CF788 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vstnoteexpressiontypes.h; path = source/vst/vstnoteexpressiontypes.h; sourceTree = SOURCE_ROOT; };
+		540553FBF71343209807E666 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = stringconvert.h; path = source/vst/utility/stringconvert.h; sourceTree = SOURCE_ROOT; };
+		54584774E9E3469E945CE4A4 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/dataexchange.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = dataexchange.cpp; path = source/vst/utility/dataexchange.cpp; sourceTree = SOURCE_ROOT; };
+		5517D34A7486439CB7983E4F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = parameterchanges.cpp; path = source/vst/hosting/parameterchanges.cpp; sourceTree = SOURCE_ROOT; };
+		55BF23ACAC494CF386D8DB03 /* sdk */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libsdk.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		59FACC9DC2A942E59D8D8F4E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstpresetfile.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstpresetfile.cpp; path = source/vst/vstpresetfile.cpp; sourceTree = SOURCE_ROOT; };
+		5BCA88C3DCD443DBB9E311B7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/pluginview.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pluginview.h; path = source/common/pluginview.h; sourceTree = SOURCE_ROOT; };
+		5E0E349B3F6342469B8A33FA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = connectionproxy.h; path = source/vst/hosting/connectionproxy.h; sourceTree = SOURCE_ROOT; };
+		5E819F4562CC4F8A97BF7DE7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = pluginfactory.cpp; path = source/main/pluginfactory.cpp; sourceTree = SOURCE_ROOT; };
+		5F017176938C48248937632B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsthelpers.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vsthelpers.h; path = source/vst/vsthelpers.h; sourceTree = SOURCE_ROOT; };
+		60872259003947B6BE92C20D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/dataexchange.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = dataexchange.h; path = source/vst/utility/dataexchange.h; sourceTree = SOURCE_ROOT; };
+		60A4E81EDC96468E8A391CBD /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstparameters.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vstparameters.h; path = source/vst/vstparameters.h; sourceTree = SOURCE_ROOT; };
+		61D41EAC517C48AEBF34310F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponentbase.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vstcomponentbase.h; path = source/vst/vstcomponentbase.h; sourceTree = SOURCE_ROOT; };
+		61DFAB2AA79E4D6EAF6CBC6A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		62043A5D36C643738191C175 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commonstringconvert.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = commonstringconvert.h; path = source/common/commonstringconvert.h; sourceTree = SOURCE_ROOT; };
+		67C90D144A204BACB550BBDA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = stringconvert.cpp; path = source/vst/utility/stringconvert.cpp; sourceTree = SOURCE_ROOT; };
+		68F488FB16E74B04ABDDD219 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/alignedalloc.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = alignedalloc.h; path = source/vst/utility/alignedalloc.h; sourceTree = SOURCE_ROOT; };
+		6B332BC937F64C76B9B7F366 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/uid.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = uid.h; path = source/vst/utility/uid.h; sourceTree = SOURCE_ROOT; };
+		6EA883D957C6490FA66B5409 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/versionparser.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = versionparser.h; path = source/vst/utility/versionparser.h; sourceTree = SOURCE_ROOT; };
+		7DA768EFA81845EB89985EC7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/testing.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = testing.h; path = source/vst/utility/testing.h; sourceTree = SOURCE_ROOT; };
+		82211E63FA664D699109B7B0 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteditcontroller.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vsteditcontroller.cpp; path = source/vst/vsteditcontroller.cpp; sourceTree = SOURCE_ROOT; };
+		8352EECCE51B403CBAF58B0E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponent.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vstcomponent.h; path = source/vst/vstcomponent.h; sourceTree = SOURCE_ROOT; };
+		8A40159922884A9D947A0B0B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/hostclasses.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = hostclasses.h; path = source/vst/hosting/hostclasses.h; sourceTree = SOURCE_ROOT; };
+		8CCD92EFDD8D40F6AEDEFEE1 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/systemtime.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = systemtime.cpp; path = source/vst/utility/systemtime.cpp; sourceTree = SOURCE_ROOT; };
+		9346C0E75A304D6BBA0E5DA7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponentbase.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstcomponentbase.cpp; path = source/vst/vstcomponentbase.cpp; sourceTree = SOURCE_ROOT; };
+		94E9172D62E24919961537A2 /* sdk_common */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libsdk_common.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		9584FC0D98314C21841865A6 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteditcontroller.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vsteditcontroller.h; path = source/vst/vsteditcontroller.h; sourceTree = SOURCE_ROOT; };
+		99ACDD3D352643FBA5709BC8 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commoniids.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = commoniids.cpp; path = source/common/commoniids.cpp; sourceTree = SOURCE_ROOT; };
+		9BB19D20D7CE4FE6856BEAE3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = pluginterfacesupport.cpp; path = source/vst/hosting/pluginterfacesupport.cpp; sourceTree = SOURCE_ROOT; };
+		9DD524F3628041E6BA206D83 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = systemclipboard.h; path = source/common/systemclipboard.h; sourceTree = SOURCE_ROOT; };
+		9F95A6A8CB174EEF82C4A7DE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = threadchecker.h; path = source/common/threadchecker.h; sourceTree = SOURCE_ROOT; };
+		A069D371A1BF481D9ECDE648 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/module.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = module.h; path = source/vst/hosting/module.h; sourceTree = SOURCE_ROOT; };
+		A16B20557D2E42F1A1BD4A28 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		A28EAAD370004CE8B0E13BFA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_linux.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = threadchecker_linux.cpp; path = source/common/threadchecker_linux.cpp; sourceTree = SOURCE_ROOT; };
+		A4EFEEDC739F4142A0B5373D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbypassprocessor.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vstbypassprocessor.h; path = source/vst/vstbypassprocessor.h; sourceTree = SOURCE_ROOT; };
+		A5F50D912B164726A5EFDFBB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pluginterfacesupport.h; path = source/vst/hosting/pluginterfacesupport.h; sourceTree = SOURCE_ROOT; };
+		A95B96C7199141CD89B3CFE3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = connectionproxy.cpp; path = source/vst/hosting/connectionproxy.cpp; sourceTree = SOURCE_ROOT; };
+		A9E8EB3D7C23487DB0FA2DDD /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteventshelper.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vsteventshelper.h; path = source/vst/vsteventshelper.h; sourceTree = SOURCE_ROOT; };
+		AA985D0894934B95920C03B8 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = stringconvert.h; path = source/vst/utility/stringconvert.h; sourceTree = SOURCE_ROOT; };
+		B04FA2FB98944641B83E8115 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = parameterchanges.h; path = source/vst/hosting/parameterchanges.h; sourceTree = SOURCE_ROOT; };
+		B22F2517D6454C9E8CEF8F62 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_mac.mm */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; fileEncoding = 4; name = systemclipboard_mac.mm; path = source/common/systemclipboard_mac.mm; sourceTree = SOURCE_ROOT; };
+		B680FEF61EFE49CBA081FC6B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/pluginview.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = pluginview.cpp; path = source/common/pluginview.cpp; sourceTree = SOURCE_ROOT; };
+		B8D1DA05EAC1437E98DFE011 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/openurl.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = openurl.h; path = source/common/openurl.h; sourceTree = SOURCE_ROOT; };
+		BC4DE7DEED30454CB8D7C22A /* sdk_hosting */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libsdk_hosting.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		C70CE55595064EA6B26A4024 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/hostclasses.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = hostclasses.cpp; path = source/vst/hosting/hostclasses.cpp; sourceTree = SOURCE_ROOT; };
+		C98D5621AEC641B6BAE58CD4 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/ringbuffer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ringbuffer.h; path = source/vst/utility/ringbuffer.h; sourceTree = SOURCE_ROOT; };
+		D12FC8A0E8A64540B9207CF5 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/rttransfer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = rttransfer.h; path = source/vst/utility/rttransfer.h; sourceTree = SOURCE_ROOT; };
+		D5ACCEBE82FF402BA40CE5BA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pluginfactory.h; path = source/main/pluginfactory.h; sourceTree = SOURCE_ROOT; };
+		D6EC970AFCEA43A5B359131C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/processcontextrequirements.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = processcontextrequirements.h; path = source/vst/utility/processcontextrequirements.h; sourceTree = SOURCE_ROOT; };
+		D7B485C84CDC434DA2B6FF6A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/processdataslicer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = processdataslicer.h; path = source/vst/utility/processdataslicer.h; sourceTree = SOURCE_ROOT; };
+		D8F04F4BCFCA46C8A15F833B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/testing.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = testing.cpp; path = source/vst/utility/testing.cpp; sourceTree = SOURCE_ROOT; };
+		DA5C47CCDC4B42E3A7C969FE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstaudioeffect.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstaudioeffect.cpp; path = source/vst/vstaudioeffect.cpp; sourceTree = SOURCE_ROOT; };
+		DA91ADD09D9842AEB58105B2 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_win32.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = systemclipboard_win32.cpp; path = source/common/systemclipboard_win32.cpp; sourceTree = SOURCE_ROOT; };
+		DB017C6D9FD44A6281B2754A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstparameters.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstparameters.cpp; path = source/vst/vstparameters.cpp; sourceTree = SOURCE_ROOT; };
+		DC1A22B401524D1E91CD78AB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/optional.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = optional.h; path = source/vst/utility/optional.h; sourceTree = SOURCE_ROOT; };
+		DE89C254CA5B4D4BB62C3093 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstrepresentation.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = vstrepresentation.h; path = source/vst/vstrepresentation.h; sourceTree = SOURCE_ROOT; };
+		E5ADF768C43B4F42B9B1B453 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_linux.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = systemclipboard_linux.cpp; path = source/common/systemclipboard_linux.cpp; sourceTree = SOURCE_ROOT; };
+		E9C6F90194E548078EC0BD3C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_win32.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = threadchecker_win32.cpp; path = source/common/threadchecker_win32.cpp; sourceTree = SOURCE_ROOT; };
+		EC05660F86EC4B03B3501DEF /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/vst2persistence.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vst2persistence.cpp; path = source/vst/utility/vst2persistence.cpp; sourceTree = SOURCE_ROOT; };
+		EDD8182400C94E4EAE304257 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		F4CB9F6E2E3244EFAC1A1A88 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = stringconvert.cpp; path = source/vst/utility/stringconvert.cpp; sourceTree = SOURCE_ROOT; };
+		F4EFFC95339F47D885949A77 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/moduleinit.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = moduleinit.h; path = source/main/moduleinit.h; sourceTree = SOURCE_ROOT; };
+		FC05D3003F0A429680F6B20D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/processdata.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = processdata.h; path = source/vst/hosting/processdata.h; sourceTree = SOURCE_ROOT; };
+		FC383E86D4B84A0E94A7F2DE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = vstnoteexpressiontypes.cpp; path = source/vst/vstnoteexpressiontypes.cpp; sourceTree = SOURCE_ROOT; };
+		FD6128C0E0A74548B405A343 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/memoryibstream.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = memoryibstream.h; path = source/vst/utility/memoryibstream.h; sourceTree = SOURCE_ROOT; };
+		FD92BBBD1BBE446A8E6DF498 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/sampleaccurate.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = sampleaccurate.h; path = source/vst/utility/sampleaccurate.h; sourceTree = SOURCE_ROOT; };
+		FFB1BCBA00FD491AA9B973B1 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory_constexpr.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pluginfactory_constexpr.h; path = source/main/pluginfactory_constexpr.h; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5091B239942C49599580D1B3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		74C1CE1A921C47A78200B23F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B09C4B1FD160482DB7864313 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		09DFDC4690A4406DB2E18FE9 /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+		0D9B702814054A03BEA48740 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		3D30D97D7FE444E9ACDC40FF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		42050875EC8945469A603709 = {
+			isa = PBXGroup;
+			children = (
+				F997B462197A489E8EC4F3A4 /* ALL_BUILD */,
+				8B920393DF0C4D78AEA93831 /* Libraries */,
+				D9A2D1A6434147E9AA945FE2 /* sdk_common */,
+				C7849FE059E74C8DB3761475 /* sdk_hosting */,
+				8B39CE0DC100412E8AC41DBF /* Products */,
+				3D30D97D7FE444E9ACDC40FF /* Frameworks */,
+				0D9B702814054A03BEA48740 /* Resources */,
+			);
+			sourceTree = "<group>";
+		};
+		59130FC8F9AB47219F93B11C /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				A95B96C7199141CD89B3CFE3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.cpp */,
+				0EDABF2E96714A2DB53A0D38 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/eventlist.cpp */,
+				C70CE55595064EA6B26A4024 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/hostclasses.cpp */,
+				17300B94031144D7AD3C35ED /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/module.cpp */,
+				5517D34A7486439CB7983E4F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.cpp */,
+				9BB19D20D7CE4FE6856BEAE3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.cpp */,
+				33097392A43145A0B021D718 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/processdata.cpp */,
+				F4CB9F6E2E3244EFAC1A1A88 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */,
+				51DFDF7C1A3B4D1CB45D60C7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		642CC642498A4CDDAFF6EBF6 /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				B680FEF61EFE49CBA081FC6B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/pluginview.cpp */,
+				3C8DDB0590CB4B5783F9B2D4 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/moduleinit.cpp */,
+				5E819F4562CC4F8A97BF7DE7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory.cpp */,
+				54584774E9E3469E945CE4A4 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/dataexchange.cpp */,
+				67C90D144A204BACB550BBDA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */,
+				8CCD92EFDD8D40F6AEDEFEE1 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/systemtime.cpp */,
+				D8F04F4BCFCA46C8A15F833B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/testing.cpp */,
+				EC05660F86EC4B03B3501DEF /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/vst2persistence.cpp */,
+				DA5C47CCDC4B42E3A7C969FE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstaudioeffect.cpp */,
+				1C58C69FFC954BE08EA953D7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbus.cpp */,
+				450BA0D7FA13460785E5ABB5 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponent.cpp */,
+				9346C0E75A304D6BBA0E5DA7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponentbase.cpp */,
+				82211E63FA664D699109B7B0 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteditcontroller.cpp */,
+				40FFD0A9273146348903280E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */,
+				FC383E86D4B84A0E94A7F2DE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.cpp */,
+				DB017C6D9FD44A6281B2754A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstparameters.cpp */,
+				388BED0FFE8944EBA862E888 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstrepresentation.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		7B664582EEB84AE782C4588E /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				62043A5D36C643738191C175 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commonstringconvert.h */,
+				B8D1DA05EAC1437E98DFE011 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/openurl.h */,
+				00B8359AC8A04F9B8C61F57B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/readfile.h */,
+				9DD524F3628041E6BA206D83 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard.h */,
+				9F95A6A8CB174EEF82C4A7DE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker.h */,
+				10CE31EBBD024FAE9AE24BD0 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstpresetfile.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		8B39CE0DC100412E8AC41DBF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				55BF23ACAC494CF386D8DB03 /* sdk */,
+				94E9172D62E24919961537A2 /* sdk_common */,
+				BC4DE7DEED30454CB8D7C22A /* sdk_hosting */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8B920393DF0C4D78AEA93831 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				D7C5AD8BA3C14E54BF1D8A56 /* sdk */,
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		9E0819870ADC4E4892A6124A /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				5BCA88C3DCD443DBB9E311B7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/pluginview.h */,
+				F4EFFC95339F47D885949A77 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/moduleinit.h */,
+				D5ACCEBE82FF402BA40CE5BA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory.h */,
+				FFB1BCBA00FD491AA9B973B1 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory_constexpr.h */,
+				68F488FB16E74B04ABDDD219 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/alignedalloc.h */,
+				303D2A7FEDC844D59F3CC9AC /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/audiobuffers.h */,
+				60872259003947B6BE92C20D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/dataexchange.h */,
+				FD6128C0E0A74548B405A343 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/memoryibstream.h */,
+				D6EC970AFCEA43A5B359131C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/processcontextrequirements.h */,
+				D7B485C84CDC434DA2B6FF6A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/processdataslicer.h */,
+				C98D5621AEC641B6BAE58CD4 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/ringbuffer.h */,
+				D12FC8A0E8A64540B9207CF5 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/rttransfer.h */,
+				FD92BBBD1BBE446A8E6DF498 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/sampleaccurate.h */,
+				AA985D0894934B95920C03B8 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.h */,
+				133A26DE9C6742D7929B7D97 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/systemtime.h */,
+				7DA768EFA81845EB89985EC7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/testing.h */,
+				01ACBB6BED7D4E43A2B08697 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/vst2persistence.h */,
+				0AFE89345DC141FFAA26AD40 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstaudioeffect.h */,
+				3EDA2D1E9A6B4B8F8DE39186 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbus.h */,
+				A4EFEEDC739F4142A0B5373D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbypassprocessor.h */,
+				8352EECCE51B403CBAF58B0E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponent.h */,
+				61D41EAC517C48AEBF34310F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponentbase.h */,
+				9584FC0D98314C21841865A6 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteditcontroller.h */,
+				A9E8EB3D7C23487DB0FA2DDD /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteventshelper.h */,
+				5F017176938C48248937632B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsthelpers.h */,
+				53832F42C30242DB8E1CF788 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.h */,
+				60A4E81EDC96468E8A391CBD /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstparameters.h */,
+				DE89C254CA5B4D4BB62C3093 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstrepresentation.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		C7284F289FA54895A6FAA5FC /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				5E0E349B3F6342469B8A33FA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.h */,
+				0C4CB3390DBF4AE28DEC55FB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/eventlist.h */,
+				8A40159922884A9D947A0B0B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/hostclasses.h */,
+				A069D371A1BF481D9ECDE648 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/module.h */,
+				B04FA2FB98944641B83E8115 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.h */,
+				A5F50D912B164726A5EFDFBB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.h */,
+				FC05D3003F0A429680F6B20D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/processdata.h */,
+				DC1A22B401524D1E91CD78AB /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/optional.h */,
+				540553FBF71343209807E666 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.h */,
+				6B332BC937F64C76B9B7F366 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/uid.h */,
+				6EA883D957C6490FA66B5409 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/versionparser.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		C7849FE059E74C8DB3761475 /* sdk_hosting */ = {
+			isa = PBXGroup;
+			children = (
+				C7284F289FA54895A6FAA5FC /* Header Files */,
+				59130FC8F9AB47219F93B11C /* Source Files */,
+				11FA2900C98E4AB9818B560F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */,
+			);
+			name = sdk_hosting;
+			sourceTree = "<group>";
+		};
+		D7C5AD8BA3C14E54BF1D8A56 /* sdk */ = {
+			isa = PBXGroup;
+			children = (
+				9E0819870ADC4E4892A6124A /* Header Files */,
+				642CC642498A4CDDAFF6EBF6 /* Source Files */,
+				EDD8182400C94E4EAE304257 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */,
+			);
+			name = sdk;
+			sourceTree = "<group>";
+		};
+		D9A2D1A6434147E9AA945FE2 /* sdk_common */ = {
+			isa = PBXGroup;
+			children = (
+				7B664582EEB84AE782C4588E /* Header Files */,
+				EF930B92507740699C0B880E /* Source Files */,
+				A16B20557D2E42F1A1BD4A28 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */,
+			);
+			name = sdk_common;
+			sourceTree = "<group>";
+		};
+		EF930B92507740699C0B880E /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				99ACDD3D352643FBA5709BC8 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commoniids.cpp */,
+				09F9610562AD4AFF919F3404 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commonstringconvert.cpp */,
+				28D8FCDAFF2C4DB6BC012E06 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/openurl.cpp */,
+				00E35C1CD60A4D3E8ED43789 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/readfile.cpp */,
+				E5ADF768C43B4F42B9B1B453 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_linux.cpp */,
+				B22F2517D6454C9E8CEF8F62 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_mac.mm */,
+				DA91ADD09D9842AEB58105B2 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_win32.cpp */,
+				A28EAAD370004CE8B0E13BFA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_linux.cpp */,
+				028D01003EB24FFCBE94440B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_mac.mm */,
+				E9C6F90194E548078EC0BD3C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_win32.cpp */,
+				59FACC9DC2A942E59D8D8F4E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstpresetfile.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		F997B462197A489E8EC4F3A4 /* ALL_BUILD */ = {
+			isa = PBXGroup;
+			children = (
+				09DFDC4690A4406DB2E18FE9 /* CMake Rules */,
+				61DFAB2AA79E4D6EAF6CBC6A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/CMakeLists.txt */,
+			);
+			name = ALL_BUILD;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52F90D7E086B55FF11402311 /* sdk_common */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4233147C2BC348448B291318 /* Build configuration list for PBXNativeTarget "sdk_common" */;
+			buildPhases = (
+				34617941C02241DF8FB0D0D6 /* Sources */,
+				74C1CE1A921C47A78200B23F /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B95957DFACCC4BC78A94CF7E /* PBXTargetDependency */,
+			);
+			name = sdk_common;
+			productName = sdk_common;
+			productReference = 94E9172D62E24919961537A2 /* sdk_common */;
+			productType = "com.apple.product-type.library.static";
+		};
+		5BEDAACE5E48497147C6D408 /* sdk */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 08AEC15CBD344551805E3917 /* Build configuration list for PBXNativeTarget "sdk" */;
+			buildPhases = (
+				360E89A78D2244648321E262 /* Sources */,
+				5091B239942C49599580D1B3 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8339CE6955AB46F686E5A7DA /* PBXTargetDependency */,
+				F7882BDD726241F292221C59 /* PBXTargetDependency */,
+			);
+			name = sdk;
+			productName = sdk;
+			productReference = 55BF23ACAC494CF386D8DB03 /* sdk */;
+			productType = "com.apple.product-type.library.static";
+		};
+		872C3D8B4D6B036F628D514B /* sdk_hosting */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 37D2E07B3A324D0AB0309618 /* Build configuration list for PBXNativeTarget "sdk_hosting" */;
+			buildPhases = (
+				2B2C1C5ADAD240F1B3A87BC4 /* Sources */,
+				B09C4B1FD160482DB7864313 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				993F18D3940548258B0DF4D5 /* PBXTargetDependency */,
+				AEFEED5434DE40F3ACA34D8B /* PBXTargetDependency */,
+			);
+			name = sdk_hosting;
+			productName = sdk_hosting;
+			productReference = BC4DE7DEED30454CB8D7C22A /* sdk_hosting */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		035225579D6841CEA6301EB9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 2700;
+			};
+			buildConfigurationList = 1EAE9BB1E23747BBB04408A3 /* Build configuration list for PBXProject "smtg_public_sdk" */;
+			buildSettings = {
+			};
+			buildStyles = (
+				316E6ED92EFF48D1A25DB1E5 /* Debug */,
+				65EF6C9BC27C41C6A4C5926F /* Release */,
+			);
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 42050875EC8945469A603709;
+			projectDirPath = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk";
+			projectRoot = "";
+			targets = (
+				D53E4E735BA468AA40C3FA7C /* ALL_BUILD */,
+				5BEDAACE5E48497147C6D408 /* sdk */,
+				52F90D7E086B55FF11402311 /* sdk_common */,
+				872C3D8B4D6B036F628D514B /* sdk_hosting */,
+				1D4BB1918E86388FF6E1CCAA /* ZERO_CHECK */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0D2BCE777269137BCF8B8209 /* Generate CMakeFiles/ALL_BUILD */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Generate CMakeFiles/ALL_BUILD";
+			outputPaths = (
+"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/cmake/vst_cmake/public.sdk/CMakeFiles/ALL_BUILD"			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e
+if test \"$CONFIGURATION\" = \"Debug\"; then :
+  cd \"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/cmake/vst_cmake/public.sdk\"
+  echo Build\\ all\\ projects
+fi
+if test \"$CONFIGURATION\" = \"Release\"; then :
+  cd \"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/cmake/vst_cmake/public.sdk\"
+  echo Build\\ all\\ projects
+fi
+";
+			showEnvVarsInLog = 0;
+		};
+		3C0110FC8322DE7E50886E21 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		9B50530E35CC49C82C2FACCF = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		A42B4BAC5557CA6327B4C49C /* Generate CMakeFiles/ZERO_CHECK */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Generate CMakeFiles/ZERO_CHECK";
+			outputPaths = (
+"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/cmake/vst_cmake/public.sdk/CMakeFiles/ZERO_CHECK"			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "set -e
+if test \"$CONFIGURATION\" = \"Debug\"; then :
+  cd \"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/cmake/vst_cmake/public.sdk\"
+  make -f /Users/benbromley/University/UoD/Modules/02\\ -\\ Audio\\ Software\\ Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/cmake/vst_cmake/public.sdk/CMakeScripts/ReRunCMake.make
+fi
+if test \"$CONFIGURATION\" = \"Release\"; then :
+  cd \"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/cmake/vst_cmake/public.sdk\"
+  make -f /Users/benbromley/University/UoD/Modules/02\\ -\\ Audio\\ Software\\ Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/cmake/vst_cmake/public.sdk/CMakeScripts/ReRunCMake.make
+fi
+";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2B2C1C5ADAD240F1B3A87BC4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E527E76E9E6E4806B865953B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/connectionproxy.cpp */,
+				A85549496625407FA529E4E7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/eventlist.cpp */,
+				39E3211CB95F4B4C9FCDED09 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/hostclasses.cpp */,
+				BBB7743EEE40496FB11E1A2B /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/module.cpp */,
+				D9AD3B3187F549D39CD2292A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/parameterchanges.cpp */,
+				9B4AF8593EDF42D3AF410963 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/pluginterfacesupport.cpp */,
+				C7BBEE99A11E45C1B15C33EE /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/hosting/processdata.cpp */,
+				5215A86DF6B740EF8586369E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */,
+				6571F4A6E60C4033BAC02375 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34617941C02241DF8FB0D0D6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				258A53340B1A4785AF3BA4A9 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commoniids.cpp */,
+				5B41DD3C28C049339F8FB9FA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/commonstringconvert.cpp */,
+				198AA53F60044CF78527FC51 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/openurl.cpp */,
+				8733A6A436554EAAA7876FB3 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/readfile.cpp */,
+				728FB9C966564EA0B0C77DCD /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_linux.cpp */,
+				339597C251534BF0AC6E936A /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_mac.mm */,
+				8E6CE1CA7C1242E284801C57 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/systemclipboard_win32.cpp */,
+				C4D2F2E635614CDCA313F619 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_linux.cpp */,
+				E493DF53FE2647FB83D7F840 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_mac.mm */,
+				AAD3B39B9B7249048C21FD4D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/threadchecker_win32.cpp */,
+				33E424AF8FE14222A7D27CE1 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstpresetfile.cpp */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		360E89A78D2244648321E262 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC1B03973D444C9398F7F92E /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/common/pluginview.cpp */,
+				B8656A17B1A64B0AB2436CB5 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/moduleinit.cpp */,
+				402D94D6A05E4C97BEC83664 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/main/pluginfactory.cpp */,
+				5F80A03671AC4DDDA1AF3070 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/dataexchange.cpp */,
+				77139D88D1E545D2B332277F /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/stringconvert.cpp */,
+				BB8543C89B9D422998278289 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/systemtime.cpp */,
+				DA1DD45B656A47858C30AEB7 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/testing.cpp */,
+				B85EC653146E4B8C9F5475C8 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/utility/vst2persistence.cpp */,
+				466BF3E894554A4CB31621EF /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstaudioeffect.cpp */,
+				A47F60BAE3F042E5B58F2203 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstbus.cpp */,
+				9D651578BCAE44E6AD8C10DA /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponent.cpp */,
+				CC91CEF2AD404593AEAAC127 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstcomponentbase.cpp */,
+				6893F2A6E6934EC6ADE6153D /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vsteditcontroller.cpp */,
+				656802481D7041F9A0E64A3C /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp */,
+				08A3F2A646B144719C0DD773 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstnoteexpressiontypes.cpp */,
+				00F94D26C007460E9BC22299 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstparameters.cpp */,
+				1546D134993545B8A5053CE0 /* /Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstrepresentation.cpp */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0157B22BA2D8497A9A498FAB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5BEDAACE5E48497147C6D408 /* sdk */;
+			targetProxy = 4456469BD3134266A3B8FEBC /* PBXContainerItemProxy */;
+		};
+		31349578673F4BB2A7BE10D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 872C3D8B4D6B036F628D514B /* sdk_hosting */;
+			targetProxy = 74F0B0E25E3F4874AC627675 /* PBXContainerItemProxy */;
+		};
+		8339CE6955AB46F686E5A7DA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1D4BB1918E86388FF6E1CCAA /* ZERO_CHECK */;
+			targetProxy = A7FDFAB76332441BB0D8492C /* PBXContainerItemProxy */;
+		};
+		993F18D3940548258B0DF4D5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1D4BB1918E86388FF6E1CCAA /* ZERO_CHECK */;
+			targetProxy = 07771E0720C04687BD0E0E69 /* PBXContainerItemProxy */;
+		};
+		AEFEED5434DE40F3ACA34D8B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 52F90D7E086B55FF11402311 /* sdk_common */;
+			targetProxy = EDFDA3AAB6164795A6718B76 /* PBXContainerItemProxy */;
+		};
+		B9224086E65B4AB3BD999C74 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 52F90D7E086B55FF11402311 /* sdk_common */;
+			targetProxy = FA6FCFC9D3D2468AAA4F00C0 /* PBXContainerItemProxy */;
+		};
+		B95957DFACCC4BC78A94CF7E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1D4BB1918E86388FF6E1CCAA /* ZERO_CHECK */;
+			targetProxy = 6DEF6F39CE5F4126B68717C2 /* PBXContainerItemProxy */;
+		};
+		E8A97414D39542E99559A7C7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1D4BB1918E86388FF6E1CCAA /* ZERO_CHECK */;
+			targetProxy = 428E72E354AC44B088461F78 /* PBXContainerItemProxy */;
+		};
+		F7882BDD726241F292221C59 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 52F90D7E086B55FF11402311 /* sdk_common */;
+			targetProxy = CCB2AF3EB6C944B3B779435F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1423EBCAE0CC4905804BECB7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = arm64;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SYMROOT = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/build";
+			};
+			name = Release;
+		};
+		3B26A76BC8104069B4FA660E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/lib/Debug";
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = ("\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/base/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/..\"","$(inherited)");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				ONLY_ACTIVE_ARCH = YES;
+				OSX_ARCHITECTURES = "x86_64;arm64;arm64e";
+				OTHER_CPLUSPLUSFLAGS = "   -DDEVELOPMENT '-std=gnu++17' '-DSMTG_RENAME_ASSERT=1' '-DDEVELOPMENT=1' ";
+				OTHER_LIBTOOLFLAGS = ("");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = sdk_hosting;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/build/sdk_hosting.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		55266C0377004839A3A4723F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		5C5CC2CAAEE44FB3A92CB749 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		633B270E4CB2489883EB4A5B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		7D60951849364400A0A97E21 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = arm64;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = ("","$(inherited)");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		AB3A44D5D21C45DC891D9C4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/lib/Debug";
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = ("\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/base/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/..\"","$(inherited)");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				ONLY_ACTIVE_ARCH = YES;
+				OSX_ARCHITECTURES = "x86_64;arm64;arm64e";
+				OTHER_CPLUSPLUSFLAGS = "   -DDEVELOPMENT '-std=gnu++17' '-DSMTG_RENAME_ASSERT=1' '-DDEVELOPMENT=1' ";
+				OTHER_LIBTOOLFLAGS = ("");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = sdk_common;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/build/sdk_common.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		AD1745A7468A4ACB9BED5DEA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/lib/Debug";
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = ("\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/base/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/..\"","$(inherited)");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				ONLY_ACTIVE_ARCH = YES;
+				OSX_ARCHITECTURES = "x86_64;arm64;arm64e";
+				OTHER_CPLUSPLUSFLAGS = "   -DDEVELOPMENT '-std=gnu++17' '-DSMTG_RENAME_ASSERT=1' '-DDEVELOPMENT=1' ";
+				OTHER_LIBTOOLFLAGS = ("");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = sdk;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/build/sdk.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		C3513984BC7249F19E91E303 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/lib/Release";
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = ("\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/base/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/..\"","$(inherited)");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				ONLY_ACTIVE_ARCH = NO;
+				OSX_ARCHITECTURES = "x86_64;arm64;arm64e";
+				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG -DRELEASE '-std=gnu++17' '-DSMTG_RENAME_ASSERT=1' '-DRELEASE=1' ";
+				OTHER_LIBTOOLFLAGS = ("");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = sdk_hosting;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/build/sdk_hosting.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		C7D45EFB7BE848398539D5C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = arm64;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk;
+				SYMROOT = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/build";
+			};
+			name = Debug;
+		};
+		DE15A3CC60EB40ECB0475159 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/lib/Release";
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = ("\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/base/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/..\"","$(inherited)");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				ONLY_ACTIVE_ARCH = NO;
+				OSX_ARCHITECTURES = "x86_64;arm64;arm64e";
+				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG -DRELEASE '-std=gnu++17' '-DSMTG_RENAME_ASSERT=1' '-DRELEASE=1' ";
+				OTHER_LIBTOOLFLAGS = ("");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = sdk;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/build/sdk.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		E46DFE2677FC4A9E85AA6D5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/lib/Release";
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","$(inherited)");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = ("\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/base/..\"","\"/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/..\"","$(inherited)");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				ONLY_ACTIVE_ARCH = NO;
+				OSX_ARCHITECTURES = "x86_64;arm64;arm64e";
+				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG -DRELEASE '-std=gnu++17' '-DSMTG_RENAME_ASSERT=1' '-DRELEASE=1' ";
+				OTHER_LIBTOOLFLAGS = ("");
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = sdk_common;
+				SECTORDER_FLAGS = "";
+				TARGET_TEMP_DIR = "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/build/sdk_common.build/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		08AEC15CBD344551805E3917 /* Build configuration list for PBXNativeTarget "sdk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD1745A7468A4ACB9BED5DEA /* Debug */,
+				DE15A3CC60EB40ECB0475159 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		1EAE9BB1E23747BBB04408A3 /* Build configuration list for PBXProject "smtg_public_sdk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C7D45EFB7BE848398539D5C6 /* Debug */,
+				1423EBCAE0CC4905804BECB7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		37D2E07B3A324D0AB0309618 /* Build configuration list for PBXNativeTarget "sdk_hosting" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B26A76BC8104069B4FA660E /* Debug */,
+				C3513984BC7249F19E91E303 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		4233147C2BC348448B291318 /* Build configuration list for PBXNativeTarget "sdk_common" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB3A44D5D21C45DC891D9C4F /* Debug */,
+				E46DFE2677FC4A9E85AA6D5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		62C55E16E5A04AE5BDB85F80 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				55266C0377004839A3A4723F /* Debug */,
+				633B270E4CB2489883EB4A5B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F410D76801E44100AA0E8405 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7D60951849364400A0A97E21 /* Debug */,
+				5C5CC2CAAEE44FB3A92CB749 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 035225579D6841CEA6301EB9 /* Project object */;
+}

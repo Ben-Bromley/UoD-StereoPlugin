@@ -1,0 +1,96 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a598d67fe7d08896d6f695763ee4c30d40bb"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a5984ace086fc5de2f7af842642862292ef5"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a5988cf329996005604e406060de69a44fa1"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a598bfe691edb6e0ccc2889a8c40e19b423e"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a5989ddbb3dec95fc692749c74d29229b5d6"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a5988616d22b4b93609b750f60eba8dfc01a"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a59886cdb63e4f7af1584abc46062f0bac8a"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a5987e3f3fbc113a10134e0e15bb6e24e9ba"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a5985c742356f4e17bfbe80b2ba3377ff2b1"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a598f5071fc21fc866540ea7ad015aae5504"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a5988cc4cb686debc14c6250a50d470a3d8a"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a598d2e174849aaa54d1281e90d3985d9758"
+    },
+    {
+      "guid" : "464b3ef6459ec205976cd64e8772a598b2761c307774191a38095edb83a73e9b"
+    }
+  ],
+  "containerPath" : "/Users/benbromley/University/UoD/Modules/02 - Audio Software Engineering/Programming/ALL_SDK/projects/03_Lab_StereoWidth/mac_build/03_Lab_StereoWidth_UNIVERSAL.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx27.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/benbromley/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/benbromley/Library/Developer/Xcode/DerivedData/03_Lab_StereoWidth_UNIVERSAL-ersohnagchdauffkqwystpbefkvq/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/benbromley/Library/Developer/Xcode/DerivedData/03_Lab_StereoWidth_UNIVERSAL-ersohnagchdauffkqwystpbefkvq/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

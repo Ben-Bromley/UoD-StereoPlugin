@@ -1,0 +1,41 @@
+dependencies: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/SDKSettings.json \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/public.sdk/source/vst/vstinitiids.cpp \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/funknown.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/fplatform.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/ftypes.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/smartpointer.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/iplugincompatibility.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/ibstream.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstaudioprocessor.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstcomponent.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/ipluginbase.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/fstrdefs.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/vsttypes.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/falignpush.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/falignpop.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/vstspeaker.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstautomationstate.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstchannelcontextinfo.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstattributes.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstcontextmenu.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstdataexchange.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivsteditcontroller.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstevents.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstprocesscontext.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstnoteexpression.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivsthostapplication.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstmessage.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstinterappaudio.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstmidilearn.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstparameterchanges.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstparameterfunctionname.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstphysicalui.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstpluginterfacesupport.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstplugview.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstprefetchablesupport.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstremapparamid.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstrepresentation.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivsttestplugprovider.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/base/istringresult.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/VST_SDK/vst3sdk/pluginterfaces/vst/ivstunits.h

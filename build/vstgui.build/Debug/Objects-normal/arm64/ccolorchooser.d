@@ -1,0 +1,47 @@
+dependencies: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk/SDKSettings.json \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/ccolorchooser.cpp \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/ccolorchooser.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../vstguifwd.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../vstguibase.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../vstguidebug.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cviewcontainer.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cview.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cpoint.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../crect.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../vstkeycode.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cbuttonstate.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cgraphicstransform.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cdrawdefs.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/icontrollistener.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/ctextedit.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/ctextlabel.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/cparamdisplay.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/ccontrol.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../ifocusdrawing.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cfont.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cstring.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../optional.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/iplatformstring.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/../vstguibase.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../ccolor.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/itextlabellistener.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../dispatchlist.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/iplatformtextedit.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/../cfont.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/../ccolor.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/../crect.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/../cdrawdefs.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/cslider.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cdrawcontext.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../clinestyle.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cframe.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/iplatformframecallback.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/../vstguifwd.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../idatapackage.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../dragging.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cbitmap.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../cresourcedescription.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../pixelbuffer.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../platform/iplatformbitmap.h \
+  /Users/benbromley/University/UoD/Modules/02\ -\ Audio\ Software\ Engineering/Programming/ALL_SDK/projects/vstgui4/vstgui/lib/controls/../events.h
